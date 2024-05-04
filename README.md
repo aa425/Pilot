@@ -1,0 +1,1 @@
+Welcome to Pilot, a versatile command-line utility designed to streamline system management and development tasks with ease. From creating directories and files to managing packages and executing scripts, Pilot empowers users to efficiently navigate their computing environment. For command help, type the word 'help'
